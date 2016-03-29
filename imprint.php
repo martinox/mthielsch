@@ -17,7 +17,6 @@
 			Clevische Straße 19<br/>
 			47495 Rheinberg<br/>
 			Germany<br/>
-			<br/>
 			<a href="mailto:info@mthielsch.de">info@mthielsch.de</a><br/>
 		</p>
 		<br/><br/>
