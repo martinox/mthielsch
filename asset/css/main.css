@@ -1,0 +1,76 @@
+body,html {
+	height:100%;
+	font-family: "Montserrat", Helvetica, Arial, sans-serif !important;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 1rem;
+	line-height: 3rem;
+	margin-top: 0.5rem;
+}
+
+header{
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto !important;
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+a:visited{
+	color: blue;
+}
+
+img{
+	border: none;
+}
+
+.container{
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto !important;
+	line-height: 2rem;
+}
+
+a.social,a.social:hover{
+	margin-right: 0.4rem;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 2.5rem;
+	font-weight: normal;
+}
+
+@media (min-width: 768px) {
+	header{
+		max-width: 750px;
+	}
+	.container{
+		max-width: 750px;
+	}
+}
+
+@media (min-width: 992px) {
+	header{
+		max-width: 970px;
+	}
+	.container{
+		max-width: 970px;
+	}
+}
+
+@media (min-width: 1200px) {
+	header{
+		max-width: 1170px;
+	}
+	.container{
+		max-width: 1170px;
+	}
+}
