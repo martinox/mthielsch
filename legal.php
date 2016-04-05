@@ -11,7 +11,7 @@
 <body>
 	<div class="container">
 	    <a href="http://www.mthielsch.de">&larr; back</a>
-	    <h1>Imprint</h1>
+	    <h1>Legal</h1>
 	    <p>
 			Martin Thielsch<br/>
 			Clevische Straße 19<br/>
