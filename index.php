@@ -32,7 +32,7 @@
 
 		<br>
 
-		<a href="/imprint">Imprint</a>
+		<a href="/legal">Legal</a>
 
 		</p>
 	</header>
