@@ -12,7 +12,7 @@
 	<header>
 		<h1>Hi, my name is <strong>Martin Thielsch</strong>, I'm a Webdeveloper from Germany.</h1>
 		<p>
-			I work as a backend developer (mainly PHP). I also do HTML, CSS, JS and Objective-c.
+			I work as a backend developer (mainly HTML). I also do CSS, JS and Objective-c.
 		</p>
 		<p>
 
